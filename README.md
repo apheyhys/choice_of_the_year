@@ -11,4 +11,4 @@
 -асинхронная отправка данных не через ajax, а через axios
 
 
-![alt text](https://ibb.co/gT0K9Q4)
+![](https://github.com/apheyhys/choice_of_the_year/blob/master/Peek%202021-07-14%2020-54.gif)
